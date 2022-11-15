@@ -9,10 +9,10 @@ such as digital art, cgi , visual effects and music visualizers.
 Take a look around and see if any of my projects tickle your fancy.
 Contact me at keegan.launspach1@hotmail.com for a collboration or if you have any burning questions to how I approach some of my projects. 🐱
 
-
+<!-- 
 ## Demo
 
-![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)
+![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif) -->
 
 <h2 align="left" id="macropower-tech">Favorite Languages and Tools</h2>
 
