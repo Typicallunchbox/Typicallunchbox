@@ -14,7 +14,7 @@ Contact me at keegan.launspach1@hotmail.com for a collboration or if you have an
 
 ![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif) -->
 
-<h2 align="left" id="macropower-tech">Favourite Languages and Tools</h2>
+<h2 align="left" id="macropower-tech">Favourite Languages and Tools</h2>e
 
 > In no particular order.
 > 
@@ -91,6 +91,6 @@ Contact me at keegan.launspach1@hotmail.com for a collboration or if you have an
   <p align="left">
     <a href="https://github.com/Typicallunchbox/Raidenn3.0"><img width="325" src="./icons/raidenn-project.jpg" alt="Raidenn"></a>
   </p>
-
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<!-- 
+  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
 </details>
