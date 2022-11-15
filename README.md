@@ -14,7 +14,7 @@ Contact me at keegan.launspach1@hotmail.com for a collboration or if you have an
 
 ![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif) -->
 
-<h2 align="left" id="macropower-tech">Favorite Languages and Tools</h2>
+<h2 align="left" id="macropower-tech">Favourite Languages and Tools</h2>
 
 > In no particular order.
 > 
