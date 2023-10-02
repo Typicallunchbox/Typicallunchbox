@@ -21,6 +21,12 @@ Contact me at keegan.launspach1@hotmail.com for a collboration or if you have an
 <table>
   <tr>
     <td align="center" width="96">
+      <a href="#typicallunchbox" >
+        <img src="./icons/reactjs.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
       <a href="#typicallunchbox">
         <img src="./icons/c-sharp.svg" width="48" height="48" alt="C#" />
       </a>
@@ -61,12 +67,6 @@ Contact me at keegan.launspach1@hotmail.com for a collboration or if you have an
         <img src="./icons/postman.svg" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox" >
-        <img src="./icons/reactjs.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
     </td>
     <td align="center"  width="96">
       <a href="#typicallunchbox">
