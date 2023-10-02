@@ -89,8 +89,8 @@ Contact me at keegan.launspach1@hotmail.com for a collboration or if you have an
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Typicallunchbox/Raidenn3.0"><img width="325" src="./icons/raidenn-project.jpg" alt="Raidenn"></a>
     <a href="https://github.com/Typicallunchbox/fakeyys-ecommerce"><img width="325" src="./icons/fakeyys-project.png" alt="Fakeyys"></a>
+    <a href="https://github.com/Typicallunchbox/Raidenn3.0"><img width="325" src="./icons/raidenn-project.jpg" alt="Raidenn"></a>
   </p>
 <!-- 
   <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
