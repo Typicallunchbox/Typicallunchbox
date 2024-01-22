@@ -1,7 +1,6 @@
 
 
-
-![0001-0280(1)](https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/5bf7d67b-c32c-4e58-96bf-41d24ae3c3d3)
+![attempt2dark0001-0280](https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/75532103-b957-4d54-9ae4-ccb9d7f13633)
 
 
 <h3 align="left">Hey there, I'm TypicalLunchbox. (Software Developer)</h3>
