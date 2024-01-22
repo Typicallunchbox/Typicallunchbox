@@ -15,6 +15,10 @@ such as digital art, cgi , visual effects and music visualizers.
 Take a look around and see if any of my projects tickle your fancy.
 Contact me at keegan.launspach1@hotmail.com for a collboration or if you have any burning questions to how I approach some of my projects. 🐱
 
+
+![seperator0001-0100](https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/d3156bce-0b08-467a-9209-76b828458849)
+
+
 <!-- 
 ## Demo
 
