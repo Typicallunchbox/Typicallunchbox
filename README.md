@@ -3,28 +3,33 @@
 ![attempt2dark0001-0280](https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/75532103-b957-4d54-9ae4-ccb9d7f13633)
 
 
-<h3 align="left">Hey there, I'm TypicalLunchbox. (Software Developer)</h3>
+<h3 align="left">Active Repos</h3>
+  <p align="left" gap=""20px>
+    <a href="https://github.com/Typicallunchbox/fakeyys-ecommerce"><img width="325" src="./icons/fakeyys-project.png" alt="Fakeyys"></a>
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    &nbsp;
+    <a href="https://github.com/Typicallunchbox/Raidenn3.0"><img width="325" src="./icons/raidenn-project.jpg" alt="Raidenn"></a>
+    </br>
+    </br>
+    <a href="https://github.com/Typicallunchbox/Raidenn3.0"><img width="325" src="./icons/raidenn-project.jpg" alt="Raidenn"></a> 
 
-
-Welcome to my Github Profile...You have come to the right place 😀
-
-I am a young developer currently working mostly with Javascript frameworks, but not limited to just that. I am also very passionate/interested in other topics
-such as digital art, cgi , visual effects and music visualizers.
-*     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     *     
-
-Take a look around and see if any of my projects tickle your fancy.
-Contact me at keegan.launspach1@hotmail.com for a collboration or if you have any burning questions to how I approach some of my projects. 🐱
-
+  </p>
+</br>
+</br>
+</br>
 
 ![seperator0001-0100](https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/d3156bce-0b08-467a-9209-76b828458849)
 
+</br>
 
 <!-- 
 ## Demo
 
 ![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif) -->
 
-<h2 align="left" id="macropower-tech">Favourite Languages and Tools</h2>
+<h3 align="left" id="macropower-tech">Favourite Languages and Tools</h3>
 
 > In no particular order.
 > 
@@ -92,16 +97,3 @@ Contact me at keegan.launspach1@hotmail.com for a collboration or if you have an
     </td>
   </tr>
 </table>
-
-<details open> 
-  <summary><h2>📘 Active Repos</h2></summary>
-
-  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <a href="https://github.com/Typicallunchbox/fakeyys-ecommerce"><img width="325" src="./icons/fakeyys-project.png" alt="Fakeyys"></a>
-    <a href="https://github.com/Typicallunchbox/Raidenn3.0"><img width="325" src="./icons/raidenn-project.jpg" alt="Raidenn"></a>
-  </p>
-<!-- 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a> -->
-</details>
