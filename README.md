@@ -13,7 +13,7 @@
     <a href="https://github.com/Typicallunchbox/Raidenn3.0"><img width="325" src="./icons/raidenn-project.jpg" alt="Raidenn"></a>
     </br>
     </br>
-    <a href="https://github.com/Typicallunchbox/Raidenn3.0"><img width="325" src="./icons/raidenn-project.jpg" alt="Raidenn"></a> 
+    <a href="https://github.com/Typicallunchbox/Raidenn3.0"><img width="325" src="./icons/explore-seats.png" alt="Raidenn"></a> 
 
   </p>
 </br>
