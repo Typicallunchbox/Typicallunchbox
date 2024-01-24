@@ -6,7 +6,7 @@
 </br>
 
 
-<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/4289f660-adf0-40bb-ad33-f81485b55b4a" />
+<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/a625542e-0a02-4357-aca5-13627e2d6b77" />
  </br>
   </br>
   <p align="left" gap=""20px>
@@ -35,11 +35,9 @@
 ## Demo
 
 ![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif) -->
-
-<h3 align="left" id="macropower-tech">Favourite Languages and Tools</h3>
-
-> In no particular order.
-> 
+<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/77da275e-5029-4eb2-afc7-1abd8eb12f8d"/>
+</br>
+</br>
 <table>
   <tr>
     <td align="center" width="96">
@@ -120,8 +118,9 @@
     <a href="https://www.linkedin.com/in/keegan-launspach/"><img href="https://www.linkedin.com/in/keegan-launspach/" src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/ddd4f210-b17c-4ca8-a0ac-b3c0591807e0" width="200" height="36" /></a>
   </p>
 
-
-<h3 align="left" id="about-me">About Me</h3>
+<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/d91a343c-04c4-47c8-b3a6-cbb088126995"/>
+</br>
+</br>
 <p align="left">I am a web developer mostly working with React. I mainly build passion projects here, striving to improve my skills every chance I can get. Always looking for a new project idea, with each one challenging me in different ways. I aim to produce quality projects with detailed documentation explaining the project. My other interests in life are digital 3d art, visual effects, cgi and music visualizers.</p>
 <p align="left">If you have any questions on one of my repos please do shout and lets start a discussion</p>
 
