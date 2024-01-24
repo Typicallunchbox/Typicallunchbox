@@ -110,12 +110,7 @@
 
 
   <p align="left">
-    <a href="https://github.com/Typicallunchbox"><img src="https://komarev.com/ghpvc/?username=Typicallunchbox&label=Profile%20views&color=0e75b6&style=flat" alt="Typicallunchbox" /></a>
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    <a href="https://linkedin.com/in/thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas" height="15" width="15" /></a>
+    <a href="https://www.linkedin.com/in/keegan-launspach/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Typicallunchbox" /></a>
   </p>
 
 
