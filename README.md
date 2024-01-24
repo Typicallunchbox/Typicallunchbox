@@ -25,6 +25,8 @@
 <img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/4994e9e5-9410-4c73-9aa5-df3ae61e8595" width="100%" height="2"/>
 
 </br>
+</br>
+</br>
 
 <!-- 
 ## Demo
@@ -105,6 +107,7 @@
 </br>
 
 <img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/4994e9e5-9410-4c73-9aa5-df3ae61e8595" width="100%" height="2"/>
+</br>
 </br>
 </br>
 </br>
