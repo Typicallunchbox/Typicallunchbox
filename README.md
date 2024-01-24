@@ -22,7 +22,7 @@
 </br>
 </br>
 
-<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/d3156bce-0b08-467a-9209-76b828458849" width="100%" height="2"/>
+<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/4994e9e5-9410-4c73-9aa5-df3ae61e8595" width="100%" height="2"/>
 
 </br>
 
@@ -104,7 +104,7 @@
 </br>
 </br>
 
-<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/d3156bce-0b08-467a-9209-76b828458849" width="100%" height="2"/>
+<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/4994e9e5-9410-4c73-9aa5-df3ae61e8595" width="100%" height="2"/>
 
 </br>
 </br>
