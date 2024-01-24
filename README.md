@@ -115,7 +115,7 @@
 
 
 <h3 align="left" id="about-me">About Me</h3>
-<p align="left">I am a web developer mostly working with React. I mainly build passion projects here, striving to imporve my skills every chance I can get. My other interests are digital 3d art, visual effects, cgi and music visualizers.</p>
+<p align="left">I am a web developer mostly working with React. I mainly build passion projects here, striving to improve my skills every chance I can get. Always looking for a new project idea, with each one challenging me in different ways. I aim to produce quality projects with detailed documentation explaining the project. My other interests in life are digital 3d art, visual effects, cgi and music visualizers.</p>
 <p align="left">If you have any questions on one of my repos please do shout and lets start a discussion</p>
 
 
