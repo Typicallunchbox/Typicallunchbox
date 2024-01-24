@@ -105,14 +105,13 @@
 </br>
 
 <img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/4994e9e5-9410-4c73-9aa5-df3ae61e8595" width="100%" height="2"/>
-
 </br>
 </br>
 </br>
-
 
   <p align="left">
-    <a href="https://www.linkedin.com/in/keegan-launspach/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Typicallunchbox" /></a>
+<!--     <a href="https://www.linkedin.com/in/keegan-launspach/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Typicallunchbox" /></a> -->
+    <a href="https://www.linkedin.com/in/keegan-launspach/"><img href="https://www.linkedin.com/in/keegan-launspach/" src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/ddd4f210-b17c-4ca8-a0ac-b3c0591807e0" width="200" height="36" /></a>
   </p>
 
 
