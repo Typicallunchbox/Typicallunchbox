@@ -5,7 +5,8 @@
 </br>
 </br>
 
-<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/3f0f8073-f6fd-4c36-bbbf-34c289cfa265" />
+
+<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/4289f660-adf0-40bb-ad33-f81485b55b4a" />
  </br>
   </br>
   <p align="left" gap=""20px>
