@@ -97,3 +97,21 @@
     </td>
   </tr>
 </table>
+
+</br>
+</br>
+</br>
+
+![seperator0001-0100](https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/d3156bce-0b08-467a-9209-76b828458849)
+
+</br>
+</br>
+</br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Typicallunchbox&label=Profile%20views&color=0e75b6&style=flat" alt="Typicallunchbox" /> </p>
+<a href="https://linkedin.com/in/thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas" height="30" width="40" /></a>
+<h3 align="left" id="about-me">About Me</h3>
+<p align="left">I am a web developer mostly working with React. I mainly build passion projects here, striving to imporve my skills every chance I can get. My other interests are digital 3d art, visual effects, cgi and music visualizers.</p>
+<p align="left">If you have any questions on one of my repos please do shout and lets start a discussion</p>
+
+
