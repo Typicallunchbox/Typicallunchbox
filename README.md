@@ -48,17 +48,17 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#typicallunchbox">
-        <img src="./icons/c-sharp.svg" width="48" height="48" alt="C#" />
+      <a href="#typicallunchbox" >
+        <img src="./icons/nextjs.svg" width="48" height="48" alt="NextJs" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>NextJs
     </td>
-<!--     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+    <td align="center" width="96">
+      <a href="#typicallunchbox" >
+        <img src="./icons/nodejs.svg" width="48" height="48" alt="NodeJs" />
       </a>
-      <br>Python
-    </td> -->
+      <br>NodeJs
+    </td>
     <td align="center" width="96">
       <a href="#typicallunchbox">
         <img src="./icons/css3.svg" width="48" height="48" alt="Css" />
@@ -83,17 +83,52 @@
       </a>
       <br>MySql
     </td>
-    <td align="center" width="96"> 
-      <a href="#typicallunchbox" >
-        <img src="./icons/postman.svg" width="48" height="48" alt="Postman" />
+    <td align="center" width="96">
+      <a href="#typicallunchbox">
+        <img src="./icons/c-sharp.svg" width="48" height="48" alt="C#" />
       </a>
-      <br>Postman
+      <br>C#&nbsp;(Core)
     </td>
     <td align="center"  width="96">
       <a href="#typicallunchbox">
         <img src="./icons/tailwind.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br>Tailwind
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#typicallunchbox" >
+        <img src="./icons/git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#typicallunchbox" >
+        <img src="./icons/aws.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#typicallunchbox" >
+        <img src="./icons/atlassian.svg" width="48" height="48" alt="Atlassian Jira" />
+      </a>
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <a href="#typicallunchbox" >
+        <img src="./icons/blender.svg" width="48" height="48" alt="Blender" />
+      </a>
+      <br>Blender
+    </td>
+    <td align="center" width="96"> 
+      <a href="#typicallunchbox" >
+        <img src="./icons/postman.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
     </td>
     <td align="center" width="96"> 
       <a href="#typicallunchbox" >
