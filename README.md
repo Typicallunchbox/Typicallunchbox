@@ -1,6 +1,5 @@
 
-
-![attempt2dark0001-0280](https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/75532103-b957-4d54-9ae4-ccb9d7f13633)
+![0004](https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/101d8468-8310-4701-a614-4fa50c4dd300)
 
 </br>
 </br>
@@ -157,7 +156,7 @@
 
 </br>
   <p align="left">
-    <a href="https://www.linkedin.com/in/keegan-launspach/"><img href="https://www.linkedin.com/in/keegan-launspach/" src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/ddd4f210-b17c-4ca8-a0ac-b3c0591807e0" width="200" height="36" /></a>
+    <a href="https://www.linkedin.com/in/keegan-launspach/"><img href="https://www.linkedin.com/in/keegan-launspach/" src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/c83d8469-e84a-4c8a-b6f8-c60506f0e3bf" width="200" height="36" /></a>
   </p>
 
 
