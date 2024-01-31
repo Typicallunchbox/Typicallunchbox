@@ -39,27 +39,30 @@
 <table>
     <tr>
         <td>
-            <img alt="React" src="https://img.shields.io/badge/-React-9B4F95?style=for-the-badge&logo=React&logoColor=white" />
-            <img alt="NextJs" src="https://img.shields.io/badge/-Nextjs-CF2126?style=for-the-badge&logo=Next.js&logoColor=white" />
+            <img alt="React" src="https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=React&logoColor=black" />
+            <img alt="NextJs" src="https://img.shields.io/badge/-Nextjs-FFFFFF?style=for-the-badge&logo=Next.js&logoColor=black" />
             <img alt="HTML" src="https://img.shields.io/badge/-Html-F16529?style=for-the-badge&logo=html5&logoColor=white" />
             <img alt="CSS" src="https://img.shields.io/badge/-Css-1471B6?style=for-the-badge&logo=css3&logoColor=white" />
-            <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-04ABD7?style=for-the-badge&logo=javascript&logoColor=white" />
-            <img alt="Sql" src="https://img.shields.io/badge/-Mysql-04ABD7?style=for-the-badge&logo=Sql&logoColor=white" />
-            <img alt="Csharp" src="https://img.shields.io/badge/-csharp-04ABD7?style=for-the-badge&logo=CSharp&logoColor=white" />
-            <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-04ABD7?style=for-the-badge&logo=Tailwind&logoColor=white" />
+            <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
+            <img alt="Sql" src="https://img.shields.io/badge/-Mysql-00758F?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" />
+            <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+            <img alt="Csharp" src="https://img.shields.io/badge/-csharp-280068?style=for-the-badge&logo=CSharp&logoColor=white" />
+            <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06b6d4?style=for-the-badge&logo=Tailwind&logoColor=white" />
         </td>
     </tr>
     <tr>
         <td>
             <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-            <img alt="Git" src="https://img.shields.io/badge/-Git-9B4F95?style=for-the-badge&logo=Git&logoColor=white" />
+            <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white" />
             <img alt="Jira" src="https://img.shields.io/badge/-Jira-2280FA?style=for-the-badge&logo=jira&logoColor=white" />
-            <img alt="Aws" src="https://img.shields.io/badge/-Aws-2280FA?style=for-the-badge&logo=Aws&logoColor=white" />
-            <img alt="Blender" src="https://img.shields.io/badge/-Blender-2280FA?style=for-the-badge&logo=Blender&logoColor=white" />
+            <img alt="Aws" src="https://img.shields.io/badge/-Aws-F1502F?style=for-the-badge&logo=amazonaws&logoColor=white" />
+            <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+            <img alt="Blender" src="https://img.shields.io/badge/-Blender-EA7600?style=for-the-badge&logo=Blender&logoColor=white" />
             <img alt="Postman" src="https://img.shields.io/badge/-Postman-F16529?style=for-the-badge&logo=postman&logoColor=white" />
             <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
             <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
             <img alt="Figma" src="https://img.shields.io/badge/-Figma-A159FF?style=for-the-badge&logo=figma&logoColor=white" />
+            <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
         </td>
     </tr>
 </table>
