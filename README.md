@@ -39,6 +39,7 @@
 <table>
     <tr>
         <td>
+            </br>
             <img alt="React" src="https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=React&logoColor=black" />
             <img alt="NextJs" src="https://img.shields.io/badge/-Nextjs-FFFFFF?style=for-the-badge&logo=Next.js&logoColor=black" />
             <img alt="HTML" src="https://img.shields.io/badge/-Html-F16529?style=for-the-badge&logo=html5&logoColor=white" />
@@ -48,10 +49,13 @@
             <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
             <img alt="Csharp" src="https://img.shields.io/badge/-csharp-280068?style=for-the-badge&logo=CSharp&logoColor=white" />
             <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06b6d4?style=for-the-badge&logo=Tailwind&logoColor=white" />
+            </br>
+            </br>
         </td>
     </tr>
     <tr>
         <td>
+            </br>
             <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
             <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white" />
             <img alt="Jira" src="https://img.shields.io/badge/-Jira-2280FA?style=for-the-badge&logo=jira&logoColor=white" />
@@ -63,6 +67,8 @@
             <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
             <img alt="Figma" src="https://img.shields.io/badge/-Figma-A159FF?style=for-the-badge&logo=figma&logoColor=white" />
             <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+            </br>
+            </br>
         </td>
     </tr>
 </table>
