@@ -37,103 +37,34 @@
 </br>
 </br>
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#typicallunchbox" >
-        <img src="./icons/reactjs.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox" >
-        <img src="./icons/nextjs.svg" width="48" height="48" alt="NextJs" />
-      </a>
-      <br>NextJs
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox" >
-        <img src="./icons/nodejs.svg" width="48" height="48" alt="NodeJs" />
-      </a>
-      <br>NodeJs
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox">
-        <img src="./icons/css3.svg" width="48" height="48" alt="Css" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox">
-        <img src="./icons/html5.svg" width="48" height="48" alt="Html" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox">
-        <img src="./icons/js.svg" width="48" height="48" alt="Javascript" />
-      </a>
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox">
-        <img src="./icons/mysql.svg" width="48" height="48" alt="MySql" />
-      </a>
-      <br>MySql
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox">
-        <img src="./icons/c-sharp.svg" width="48" height="48" alt="C#" />
-      </a>
-      <br>C#&nbsp;(Core)
-    </td>
-    <td align="center"  width="96">
-      <a href="#typicallunchbox">
-        <img src="./icons/tailwind.svg" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#typicallunchbox" >
-        <img src="./icons/git.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox" >
-        <img src="./icons/aws.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox" >
-        <img src="./icons/atlassian.svg" width="48" height="48" alt="Atlassian Jira" />
-      </a>
-      <br>Jira
-    </td>
-    <td align="center" width="96">
-      <a href="#typicallunchbox" >
-        <img src="./icons/blender.svg" width="48" height="48" alt="Blender" />
-      </a>
-      <br>Blender
-    </td>
-    <td align="center" width="96"> 
-      <a href="#typicallunchbox" >
-        <img src="./icons/postman.svg" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96"> 
-      <a href="#typicallunchbox" >
-        <img src="./icons/figma.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-  </tr>
+    <tr>
+        <td>
+            <img alt="React" src="https://img.shields.io/badge/-React-61dbfb?style=for-the-badge&logo=React&logoColor=black" />
+            <img alt="NextJs" src="https://img.shields.io/badge/-Nextjs-FFFFFF?style=for-the-badge&logo=Next.js&logoColor=black" />
+            <img alt="HTML" src="https://img.shields.io/badge/-Html-F16529?style=for-the-badge&logo=html5&logoColor=white" />
+            <img alt="CSS" src="https://img.shields.io/badge/-Css-1471B6?style=for-the-badge&logo=css3&logoColor=white" />
+            <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black" />
+            <img alt="Sql" src="https://img.shields.io/badge/-Mysql-00758F?style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" />
+            <img alt="PostgreSql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+            <img alt="Csharp" src="https://img.shields.io/badge/-csharp-280068?style=for-the-badge&logo=CSharp&logoColor=white" />
+            <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06b6d4?style=for-the-badge&logo=Tailwind&logoColor=white" />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+            <img alt="Git" src="https://img.shields.io/badge/-Git-F1502F?style=for-the-badge&logo=Git&logoColor=white" />
+            <img alt="Jira" src="https://img.shields.io/badge/-Jira-2280FA?style=for-the-badge&logo=jira&logoColor=white" />
+            <img alt="Aws" src="https://img.shields.io/badge/-Aws-F1502F?style=for-the-badge&logo=amazonaws&logoColor=white" />
+            <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+            <img alt="Blender" src="https://img.shields.io/badge/-Blender-EA7600?style=for-the-badge&logo=Blender&logoColor=white" />
+            <img alt="Postman" src="https://img.shields.io/badge/-Postman-F16529?style=for-the-badge&logo=postman&logoColor=white" />
+            <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+            <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
+            <img alt="Figma" src="https://img.shields.io/badge/-Figma-A159FF?style=for-the-badge&logo=figma&logoColor=white" />
+            <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+        </td>
+    </tr>
 </table>
 
 </br>
