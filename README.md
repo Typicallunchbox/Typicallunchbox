@@ -86,14 +86,17 @@
 <img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/d91a343c-04c4-47c8-b3a6-cbb088126995"/>
 </br>
 </br>
-
-<p>Currently living in 🇿🇦 Durban, South Africa.</p>
-<p>Interested in moving to 🇳🇿 Auckland, New Zealand.</p>
-
-<p align="left">I am a web developer mostly working with React. I mainly build passion projects here, striving to improve my skills every chance I can get. Always looking for a new project idea, with each one challenging me in different ways. I aim to produce quality projects with detailed documentation explaining the project. My other interests in life are digital 3d art, visual effects, cgi and music visualizers.</p>
-<p align="left">If you have any questions on one of my repos please do shout and lets start a discussion</p>
-
+𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙞𝙫𝙞𝙣𝙜 𝙞𝙣 🇿🇦 𝘿𝙪𝙧𝙗𝙖𝙣, 𝙎𝙤𝙪𝙩𝙝 𝘼𝙛𝙧𝙞𝙘𝙖.
 </br>
+𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙚𝙙 𝙞𝙣 𝙢𝙤𝙫𝙞𝙣𝙜 𝙩𝙤 🇳🇿 𝘼𝙪𝙘𝙠𝙡𝙖𝙣𝙙, 𝙉𝙚𝙬 𝙕𝙚𝙖𝙡𝙖𝙣𝙙.
+</br>
+</br>
+𝘐 𝘢𝘮 𝘢 𝘸𝘦𝘣 𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘮𝘰𝘴𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘸𝘪𝘵𝘩 𝘙𝘦𝘢𝘤𝘵. 𝘐 𝘮𝘢𝘪𝘯𝘭𝘺 𝘣𝘶𝘪𝘭𝘥 𝘱𝘢𝘴𝘴𝘪𝘰𝘯 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘩𝘦𝘳𝘦, 𝘴𝘵𝘳𝘪𝘷𝘪𝘯𝘨 𝘵𝘰 𝘪𝘮𝘱𝘳𝘰𝘷𝘦 𝘮𝘺 𝘴𝘬𝘪𝘭𝘭𝘴 𝘦𝘷𝘦𝘳𝘺 𝘤𝘩𝘢𝘯𝘤𝘦 𝘐 𝘤𝘢𝘯 𝘨𝘦𝘵. 𝘈𝘭𝘸𝘢𝘺𝘴 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘧𝘰𝘳 𝘢 𝘯𝘦𝘸 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘪𝘥𝘦𝘢, 𝘸𝘪𝘵𝘩 𝘦𝘢𝘤𝘩 𝘰𝘯𝘦 𝘤𝘩𝘢𝘭𝘭𝘦𝘯𝘨𝘪𝘯𝘨 𝘮𝘦 𝘪𝘯 𝘥𝘪𝘧𝘧𝘦𝘳𝘦𝘯𝘵 𝘸𝘢𝘺𝘴. 𝘐 𝘢𝘪𝘮 𝘵𝘰 𝘱𝘳𝘰𝘥𝘶𝘤𝘦 𝘲𝘶𝘢𝘭𝘪𝘵𝘺 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴 𝘸𝘪𝘵𝘩 𝘥𝘦𝘵𝘢𝘪𝘭𝘦𝘥 𝘥𝘰𝘤𝘶𝘮𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯 𝘦𝘹𝘱𝘭𝘢𝘪𝘯𝘪𝘯𝘨 𝘵𝘩𝘦 𝘱𝘳𝘰𝘫𝘦𝘤𝘵. 𝘔𝘺 𝘰𝘵𝘩𝘦𝘳 𝘪𝘯𝘵𝘦𝘳𝘦𝘴𝘵𝘴 𝘪𝘯 𝘭𝘪𝘧𝘦 𝘢𝘳𝘦 𝘥𝘪𝘨𝘪𝘵𝘢𝘭 3𝘥 𝘢𝘳𝘵, 𝘷𝘪𝘴𝘶𝘢𝘭 𝘦𝘧𝘧𝘦𝘤𝘵𝘴, 𝘤𝘨𝘪 𝘢𝘯𝘥 𝘮𝘶𝘴𝘪𝘤 𝘷𝘪𝘴𝘶𝘢𝘭𝘪𝘻𝘦𝘳𝘴.
+🍩 𝘐𝘧 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘢𝘯𝘺 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯𝘴 𝘰𝘯 𝘰𝘯𝘦 𝘰𝘧 𝘮𝘺 𝘳𝘦𝘱𝘰𝘴 𝘱𝘭𝘦𝘢𝘴𝘦 𝘥𝘰 𝘴𝘩𝘰𝘶𝘵 𝘢𝘯𝘥 𝘭𝘦𝘵𝘴 𝘴𝘵𝘢𝘳𝘵 𝘢 𝘥𝘪𝘴𝘤𝘶𝘴𝘴𝘪𝘰𝘯. 🍩
+</br>
+</br>
+</br>
+📋 𝙋𝙧𝙤𝙛𝙞𝙡𝙚𝙨:
 </br>
 </br>
   <p align="left">
