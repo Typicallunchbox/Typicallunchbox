@@ -2,8 +2,7 @@
 </br>
 </br>
 
-
-<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/a625542e-0a02-4357-aca5-13627e2d6b77" />
+<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/6fcab160-f487-4498-a111-e3b2bb2c0f4b" />
  </br>
   </br>
   <p align="left" gap=""20px>
@@ -33,7 +32,7 @@
 ## Demo
 
 ![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif) -->
-<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/77da275e-5029-4eb2-afc7-1abd8eb12f8d"/>
+<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/451ff335-bd66-443c-9aba-0fc1bdcff7da"/>
 </br>
 </br>
 <table>
@@ -83,7 +82,7 @@
 </br>
 </br>
 
-<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/d91a343c-04c4-47c8-b3a6-cbb088126995"/>
+<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/c750d65e-40c7-40ea-ae15-2bf576bad193"/>
 </br>
 </br>
 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙞𝙫𝙞𝙣𝙜 𝙞𝙣 🇿🇦 𝘿𝙪𝙧𝙗𝙖𝙣, 𝙎𝙤𝙪𝙩𝙝 𝘼𝙛𝙧𝙞𝙘𝙖.
