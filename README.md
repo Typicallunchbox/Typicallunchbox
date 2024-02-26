@@ -1,6 +1,7 @@
 <a href="#"><img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/101d8468-8310-4701-a614-4fa50c4dd300" /></a>
 </br>
 </br>
+</br>
 
 <img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/002935d0-fd98-4e99-aae6-772ebdb08c15" width="340px" />
  </br>
@@ -35,8 +36,6 @@
 
 
 <img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/d184811b-ff1d-4afc-99f7-85a3c6725c76" width="500px"/>
-</br>
-<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/dd667b80-f0ca-4cb8-81f3-7c1c483bfc82"/>
 </br>
 </br>
 <table>
@@ -87,10 +86,6 @@
 </br>
 
 <img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/877c2d62-e6ad-4c26-961a-dc818e404da2" width="260px"/>
-
-</br>
-
-<img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/703b99d6-0c9d-4358-8592-963a476aef8a"/>
 </br>
 </br>
 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙞𝙫𝙞𝙣𝙜 𝙞𝙣 🇿🇦 𝘿𝙪𝙧𝙗𝙖𝙣, 𝙎𝙤𝙪𝙩𝙝 𝘼𝙛𝙧𝙞𝙘𝙖.
