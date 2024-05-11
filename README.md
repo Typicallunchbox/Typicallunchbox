@@ -101,13 +101,7 @@
 </br>
 </br>
 </br>
-📋 𝙋𝙧𝙤𝙛𝙞𝙡𝙚𝙨:
-</br>
-</br>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/keegan-launspach/"><img href="https://www.linkedin.com/in/keegan-launspach/" src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/c83d8469-e84a-4c8a-b6f8-c60506f0e3bf" width="200" height="36" /></a>
-  </p>
-  
+
   ![gitFooter](https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/740c143b-4bd8-4026-a7b7-664cf9f9462f)
 
 
