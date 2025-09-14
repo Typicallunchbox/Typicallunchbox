@@ -7,16 +7,14 @@
  </br>
   </br>
   <p align="left" gap=""20px>
-    <a href="https://github.com/Typicallunchbox/fakeyys-ecommerce"><img width="325" src="./icons/fakeyys-project.png" alt="Fakeyys"></a>
+    <a href="https://github.com/Typicallunchbox/ExploreSeats"><img width="325" src="https://github.com/user-attachments/assets/cd966dd9-824b-496d-8827-26358426d582" alt="Raidenn"></a>
     &nbsp;
     &nbsp;
     &nbsp;
     &nbsp;
-    <a href="https://github.com/Typicallunchbox/Raidenn3.0"><img width="325" src="./icons/raidenn-project.png" alt="Raidenn"></a>
+   <a href="https://github.com/Typicallunchbox/fakeyys-ecommerce"><img width="325" src="./icons/fakeyys-project.png" alt="Fakeyys"></a>
     </br>
-    </br>
-    <a href="https://github.com/Typicallunchbox/ExploreSeats"><img width="325" src="./icons/explore-seats-project.png" alt="Raidenn"></a> 
-
+    </br>   
   </p>
 </br>
 </br>
@@ -25,6 +23,7 @@
 <img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/4994e9e5-9410-4c73-9aa5-df3ae61e8595" width="100%" height="2"/>
 
 </br>
+
 </br>
 </br>
 </br>
