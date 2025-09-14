@@ -7,7 +7,7 @@
  </br>
   </br>
   <p align="left" gap=""20px>
-    <a href="https://github.com/Typicallunchbox/ExploreSeats"><img width="325" src="https://github.com/user-attachments/assets/cd966dd9-824b-496d-8827-26358426d582" alt="Raidenn"></a>
+    <a href="https://compare-golf.co.nz/"><img width="325" src="https://github.com/user-attachments/assets/cd966dd9-824b-496d-8827-26358426d582" alt="Raidenn"></a>
     &nbsp;
     &nbsp;
     &nbsp;
