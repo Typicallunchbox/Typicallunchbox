@@ -1,4 +1,4 @@
-<a href="#"><img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/101d8468-8310-4701-a614-4fa50c4dd300" /></a>
+<!-- <a href="#"><img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/101d8468-8310-4701-a614-4fa50c4dd300" /></a>
 </br>
 </br>
 </br>
@@ -18,7 +18,7 @@
   </p>
 </br>
 </br>
-</br>
+</br> -->
 
 <img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/4994e9e5-9410-4c73-9aa5-df3ae61e8595" width="100%" height="2"/>
 
@@ -87,7 +87,7 @@
 <img src="https://github.com/Typicallunchbox/Typicallunchbox/assets/41709116/877c2d62-e6ad-4c26-961a-dc818e404da2" width="260px"/>
 </br>
 </br>
-𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙞𝙫𝙞𝙣𝙜 𝙞𝙣 🇿🇦 Coleraine, Northern Ireland, United Kingdom.
+𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙞𝙫𝙞𝙣𝙜 𝙞𝙣 Coleraine, Northern Ireland, United Kingdom.
 </br>
 </br>
 </br>
